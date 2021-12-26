@@ -11,7 +11,7 @@
 > git branch -m <novo nome>
 
 # Alterando o nome de uma branch qualquer
-> git branch <nome atual> <novo nome>
+> git branch -m <nome atual> <novo nome>
 
 # Navegar entre branchs
 > git checkout <nome da branch>
